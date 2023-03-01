@@ -2,7 +2,7 @@
 
 # configs
 AUUID=7530c8ce-a7bb-41eb-ae47-0502bf6341df
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+CADDYIndexPage=https://github.com/wulabing/3DCEList/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/BJM900327/melove0112/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/BJM900327/melove0112/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
